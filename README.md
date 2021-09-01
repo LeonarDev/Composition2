@@ -1,15 +1,15 @@
-# Composition
+# Composition 2
 
 ### Exercise:
 
-<img src="exercise.png">
+<img src="./img/exercise.png">
 <br>
 
 ### Output expected:
 
-<img src="output_expected.png">
+<img src="./img/output_expected.png">
 <br>
 
 ### Tip:
 
-<img src="tip.png">
+<img src="./img/tip.png">
