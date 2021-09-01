@@ -5,7 +5,7 @@
 <img src="./img/exercise.png">
 <br>
 
-### Output expected:
+### Expected output:
 
 <img src="./img/output_expected.png">
 <br>
